@@ -1,4 +1,4 @@
-# 🧑‍💻 **[Seu Nome]** | Programador em progresso 🚀
+# 🧑‍💻 **Lucas Vinicius** | Programador em progresso 🚀
 
 > **Explorando o universo da programação** enquanto sou **pai** e estudante de **Ciência da Computação**.
 
@@ -18,7 +18,5 @@
 
 ---
 
-## 💬 **Conecte-se comigo:**
-
-- **Twitter**: [@SeuTwitter](https://twitter.com/seuperfil)  
+## 💬 **Conecte-se comigo:**  
 - **LinkedIn**: [Lucas Silva](www.linkedin.com/in/lucas-silva-602604205)
