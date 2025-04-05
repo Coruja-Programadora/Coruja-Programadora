@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🧑‍💻 **[Seu Nome]** | Programador em progresso 🚀
 
-<!--
-**Coruja-Programadora/Coruja-Programadora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Explorando o universo da programação** enquanto sou **pai** e estudante de **Ciência da Computação**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 **O que estou fazendo?**
+
+- Estudando **programação** e criando projetos 🚀  
+- Explorando **algoritmos** e **lógica** 💡  
+- Quebrando a cabeça e aprendendo com os erros 😅
+
+---
+
+## 📈 **Status do Projeto:**
+
+**"Ainda em construção!"** - Como toda jornada de programação, sempre há algo novo acontecendo. 🚧
+
+---
+
+## 💬 **Conecte-se comigo:**
+
+- **Twitter**: [@SeuTwitter](https://twitter.com/seuperfil)  
+- **LinkedIn**: [Lucas Silva](www.linkedin.com/in/lucas-silva-602604205)
