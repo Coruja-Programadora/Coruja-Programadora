@@ -19,4 +19,4 @@
 ---
 
 ## 💬 **Conecte-se comigo:**  
-- **LinkedIn**: [Lucas Silva](www.linkedin.com/in/lucas-silva-602604205)
+- **LinkedIn**: [Lucas Silva](https:www.linkedin.com/in/lucas-silva-602604205)
